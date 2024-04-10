@@ -5,14 +5,14 @@ Hello world example how to integrate external events into DPCalendar.
 
 PREREQUISITS
 ------------
-- Joomla 3.x
-- mysql >= 5.0.0
-- PHP >= 5.3.0
-- DPCalendar 4.x
+- Joomla 4.x
+- mysql >= 8.0.0
+- PHP >= 8.1.0
+- DPCalendar 8.x
 
 INSTALLATION
 ------------
-Download the whole repository and copy it to the folder plugins/dpcalendar/dpcalendar_helloworld.
+Download the whole repository and copy it to the folder plugins/dpcalendar/helloworld.
 Then go to the extension manager in joomla and discover for new plugins. You should find the hello world plugin.
 
 CONFIGURATION
